@@ -1,0 +1,6 @@
+{
+  "name": "Purr & Bristle - Feline Fine Art & Whimsical Exhibitions",
+  "description": "An enchanting storybook art gallery and feline wellness salon celebrating whimsical cat illustrations, masterworks, and artisanal spa experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
